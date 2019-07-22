@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "crusades",
+    "name": "Antifungus Crusader",
+    "authors": [ "roaringjohn" ],
+    "description": "WE WILL WIPE OUT THE FUNGUS! DEUS VULT!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
